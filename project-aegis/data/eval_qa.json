@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the per diem allowance for travel to the USA?",
+    "ground_truth": "$120 per day"
+  },
+  {
+    "question": "Can I claim Uber expenses during international business travel?",
+    "ground_truth": "Yes, employees may claim Uber and ride-sharing expenses for approved international business travel with receipts."
+  },
+  {
+    "question": "How many weeks of maternity leave are employees entitled to?",
+    "ground_truth": "26 weeks at full pay"
+  },
+  {
+    "question": "How far in advance must I book international flights?",
+    "ground_truth": "At least 7 days in advance via the approved travel portal"
+  },
+  {
+    "question": "What passport validity is required for international travel?",
+    "ground_truth": "Passport must be valid for at least six months beyond the travel return date"
+  },
+  {
+    "question": "Within how many days must expense receipts be submitted?",
+    "ground_truth": "Within 30 days of returning from travel"
+  }
+]
