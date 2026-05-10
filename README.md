@@ -250,4 +250,4 @@ QUERY (online, per request)
 ## Author
 
 **Brajesh Sinha** · [Brajesh.Sinha786@gmail.com](mailto:Brajesh.Sinha786@gmail.com)  
-Advanced Certificate in AI — IIT Madras
+Advanced Engineering Certification in AI Agent Workflows & Agentic System Development — IIT Madras
